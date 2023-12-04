@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  CphCocoaDesignSystem
+
+  Created by Mikkel Sindberg Eriksen on 01/12/2023.
+  
+*/
+
+
+// Login screen
+
+"login_screen_name_field_title" = "User name";
+"login_screen_pass_field_title" = "Password";
+"login_screen_button_title" = "Login";
+"login_screen_name_box_title" = "Keep me logged in";
+
+
+// Welcome Screen
+
+"welcome_screen_title" = "Welcome";
+"welcome_screen_header1" = "Ut enim ad minim";
+"welcome_screen_body1" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";
+"welcome_screen_header2" = "Ex ea commodo";
+"welcome_screen_body2" = "Et vix facer movet, est numquam expetenda voluptaria id. Vim no placerat singulis suscipiantur, pri quis mentitum sadipscing ex. Eros doming et mei.";
+"welcome_screen_checkbox_title" = "Ok, I accept";
+"welcome_screen_button_title" = "Continue";
